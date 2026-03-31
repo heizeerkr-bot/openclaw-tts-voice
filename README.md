@@ -1,8 +1,8 @@
 # OpenClaw TTS Voice Skill
 
-免费的TTS语音生成Skill，让你的AI agent开口说话。
+开车时腾不开手和眼睛？想不想听你的小龙虾和你聊天？想不想听听小龙虾的声音？
 
-基于 Microsoft Edge TTS（免费，无需API key），支持十几种中英文神经语音。
+免费的TTS语音生成Skill，让你的AI agent开口说话。基于 Microsoft Edge TTS（免费，无需API key），支持十几种中英文神经语音。
 
 ## 安装
 
